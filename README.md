@@ -8,9 +8,13 @@ Material contained in this repository is to support the Tech Talk.
 
 - [README.md](https://github.com/LearnTech-ssam/techtalk_aimodel/blob/main/README.md) is the file you are currently reading.
 
+- [Tech_Talk_AI_Model (subset of code only).html](https://github.com/LearnTech-ssam/techtalk_aimodel/blob/main/Tech_Talk_AI_Model%20(subset%20of%20code%20only).html) is a html version of the .ipynb file and is screen reader compatible. You will need to download the file and open it in a browser.
+
+- [Tech_Talk_AI_Model (subset of code only).ipynb](https://github.com/LearnTech-ssam/techtalk_aimodel/blob/main/Tech_Talk_AI_Model%20(subset%20of%20code%20only).ipynb) contains Python code to create an AI model without explanation of the steps.
+
 - [Tech_Talk_AI_Model.html](https://github.com/LearnTech-ssam/techtalk_aimodel/blob/main/Tech_Talk_AI_Model.html) is a html version of the .ipynb file and is screen reader compatible. You will need to download the file and open it in a browser.
 
-- [Tech_Talk_AI_Model.ipynb](https://github.com/LearnTech-ssam/techtalk_aimodel/blob/main/Tech_Talk_AI_Model.ipynb) contains Python code to clean the raw data and save it as the cleaned csv. The file was created to be used in Kaggle Notebooks.
+- [Tech_Talk_AI_Model.ipynb](https://github.com/LearnTech-ssam/techtalk_aimodel/blob/main/Tech_Talk_AI_Model.ipynb) contains Python code to create an AI model with explanation of the steps.
 
 # How do I run the .ipynb file in Kaggle Notebooks?
 1. Save the [.ipynb file](https://github.com/LearnTech-ssam/techtalk_aimodel/blob/main/Tech_Talk_AI_Model.ipynb)
