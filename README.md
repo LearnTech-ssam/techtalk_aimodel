@@ -6,6 +6,8 @@ Material contained in this repository is to support the Tech Talk.
 # Materials 
 - [images](https://github.com/LearnTech-ssam/techtalk_aimodel/tree/main/images) contains images shown in this repository.
 
+- [Presentation - Tech Career Talks - Create an AI Model in 30 minutes with Python.pdf](https://github.com/LearnTech-ssam/techtalk_aimodel/blob/main/Presentation%20-%20Tech%20Career%20Talks%20-%20Create%20an%20AI%20Model%20in%2030%20minutes%20with%20Python.pdf) is a pdf version of the presentation that was given during the live Tech Career Talk.
+ 
 - [README.md](https://github.com/LearnTech-ssam/techtalk_aimodel/blob/main/README.md) is the file you are currently reading.
 
 - [Tech_Talk_AI_Model (subset of code only).html](https://github.com/LearnTech-ssam/techtalk_aimodel/blob/main/Tech_Talk_AI_Model%20(subset%20of%20code%20only).html) is a html version of the .ipynb file and is screen reader compatible. You will need to download the file and open it in a browser.
